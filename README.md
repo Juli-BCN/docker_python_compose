@@ -42,3 +42,8 @@ Para parar un contenedor en ejecución, primero hemos de saber el ID de dicho co
 > docker ps
 
 > docker stop XXXXXXXXXXXX
+
+
+### Infrastructure model
+
+![Infrastructure model](.infragenie/infrastructure_model.png)
